@@ -33,6 +33,7 @@ requirements:
   run:
     - perl
     - perl-sub-install
+    - perl-params-util
 
 test:
   imports:
